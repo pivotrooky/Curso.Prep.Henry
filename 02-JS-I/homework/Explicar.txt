@@ -1,0 +1,7 @@
+Variables: podemos considerarlas cajas donde guardamos algún tipo de información que recuperaremos más tarde.
+
+Strings o "cadenas" (de texto): son un conjunto de caracteres. (Son un tipo de datos).
+
+Funciones: nos ayudan a hacer más eficiente nuestro código, ya que seguramente querramos aplicar el mismo proceso a distintos parámetros, o hacerlo varias veces a lo largo de nuestro programa. Ayuda a simplificarnos el trabajo, también, a medida que un proyecto se hace más grande. Una función recibe argumentos y, en base a ellos, retorna, o no, algún tipo de dato.
+
+Valores booleanos: es un tipo de dato que solamente puede ser verdadero (true) o falso (false).
