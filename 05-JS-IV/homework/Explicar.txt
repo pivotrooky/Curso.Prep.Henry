@@ -1,0 +1,5 @@
+Objetos: conjunto de elementos que llamamos propiedades, que poseen valores.
+Propiedades: es una relación entre un nombre y un valor. Por ejemplo, entre "edad" y el valor número que corresponde a esa edad.
+Métodos: así llamamos a las funciones que están contenidas en un objeto.
+Bucle for…in: es un bucle que permite iterar por cada elemento dentro de un objeto.
+Notación de puntos vs notación de corchetes: la notación de puntos es más cómoda pero la notación de corchetes nos permite distinguir entre una string y una variable que, de usar notación de puntos, se confundiría con la string e intentaría equivocadamente acceder a una propiedad con ese nombre dentro del objeto en vez de ir a la variable.
