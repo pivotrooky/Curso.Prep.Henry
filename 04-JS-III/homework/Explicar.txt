@@ -1,2 +1,2 @@
 Array = es un conjunto de elementos, que en Javascript pueden ser de distintos tipos. Un array es a vez un tipo de dato.
-Podemos acceder a elementos individuales del array ya con conocer su ubicación, o podemos buscarlos; podemos manipular los arrays eliminando, agregando y modificando elementos a voluntad.
+Podemos acceder a elementos individuales del array ya con conocer su ubicaciÃ³n, o podemos buscarlos; podemos manipular los arrays eliminando, agregando y modificando elementos a voluntad.

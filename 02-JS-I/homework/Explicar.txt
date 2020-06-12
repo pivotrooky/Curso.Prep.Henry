@@ -1,7 +1,7 @@
-Variables: podemos considerarlas cajas donde guardamos alg˙n tipo de informaciÛn que recuperaremos m·s tarde.
+Variables: podemos considerarlas cajas donde guardamos alg√∫n tipo de informaci√≥n que recuperaremos m√°s tarde.
 
 Strings o "cadenas" (de texto): son un conjunto de caracteres. (Son un tipo de datos).
 
-Funciones: nos ayudan a hacer m·s eficiente nuestro cÛdigo, ya que seguramente querramos aplicar el mismo proceso a distintos par·metros, o hacerlo varias veces a lo largo de nuestro programa. Ayuda a simplificarnos el trabajo, tambiÈn, a medida que un proyecto se hace m·s grande. Una funciÛn recibe argumentos y, en base a ellos, retorna, o no, alg˙n tipo de dato.
+Funciones: nos ayudan a hacer m√°s eficiente nuestro c√≥digo, ya que seguramente querramos aplicar el mismo proceso a distintos par√°metros, o hacerlo varias veces a lo largo de nuestro programa. Ayuda a simplificarnos el trabajo, tambi√©n, a medida que un proyecto se hace m√°s grande. Una funci√≥n recibe argumentos y, en base a ellos, retorna, o no, alg√∫n tipo de dato.
 
 Valores booleanos: es un tipo de dato que solamente puede ser verdadero (true) o falso (false).

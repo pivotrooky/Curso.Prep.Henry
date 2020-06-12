@@ -1,0 +1,3 @@
+prototype: constituye una especie de "plantilla" para nuestros objetos, los cuales "heredan" las propiedades de su prototype.
+
+Constructors de clase: allí definimos lo que van a heredar los objetos de esta clase, que van a compartir propiedades y/o métodos.

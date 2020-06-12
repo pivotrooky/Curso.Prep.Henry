@@ -1,6 +1,6 @@
-For: lo usamos cuando queremos hacer algo varias veces, y sabemos cu·ntas veecs lo queremos hacer. Nos ahorra repetirnos.
+For: lo usamos cuando queremos hacer algo varias veces, y sabemos cu√°ntas veecs lo queremos hacer. Nos ahorra repetirnos.
 
-Operadores lÛgicos:
+Operadores l√≥gicos:
 
 &&: devuelve verdadero si ambas condiciones son verdaderas
 
