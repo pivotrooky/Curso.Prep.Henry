@@ -1,10 +1,10 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = 'lo que quieras';
+const nuevaString = 'a';
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 19;
+const nuevoNum = 1;
 
 // Crea una variable booleana:
 const nuevoBool = true;
@@ -60,20 +60,14 @@ function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (x == y) {
-    return true;
-  }
-  return false;
+  return x === y;
 }
 
 function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (str1.length == str2.length) {
-    return true;
-  }
-  return false;
+  return str1.length === str2.length;
 }
 
 function menosQueNoventa(num) {
@@ -87,10 +81,7 @@ function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num > 50) {
-    return true;
-  }
-  return false;
+  return num > 50;
 }
 
 function obtenerResto(x, y) {
@@ -103,33 +94,28 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num % 2 == 0) {
-    return true;
-  }
-  return false;
+  return num % 2 === 0;
 }
 
 function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num % 2 != 0) {
-    return true;
-  }
-  return false;
+
+  return num % 2 !== 0;
 }
 
 function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
-  return Math.pow(num, 2);
+  return num * num;
 }
 
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
-  return Math.pow(num, 3);
+  return num * num * num;
 }
 
 function elevar(num, exponent) {
@@ -168,7 +154,7 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  return "Hola " + nombre + "!";
+  return 'Hola ' + nombre + '!';
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
