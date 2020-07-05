@@ -1,11 +1,31 @@
+body {
+    background-image: url("background.jpg");
+    background-size: 100%;
+    display:         flex;
+    -webkit-justify-content: center;
+        justify-content: center;
+}
+
 h1 {
-    color: chocolate;
+    color: burlywood;
+    vertical-align: auto;
 }
 
 img {
     width: 400px;
 }
 
+div {
+    text-align: center;
+}
+
+p {
+    vertical-align: center;
+}
+td {
+    border-style: groove;
+    vertical-align: center;
+}
 #thirdDiv {
     height: 600px; 
     width: 500px;
@@ -14,6 +34,7 @@ img {
     border-width: 50px;
     border-color: darkblue;
     border-style: solid;
+    margin-left: 100px;
 
 }
 
